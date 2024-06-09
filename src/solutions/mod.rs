@@ -6,6 +6,7 @@ pub mod longest_palindrome;
 pub mod replace_words;
 pub mod reverse_string;
 pub mod score_of_string;
+pub mod subarrays_div_by_k;
 
 pub use append_characters::*;
 pub use check_subarray_sum::*;
@@ -15,3 +16,4 @@ pub use longest_palindrome::*;
 pub use replace_words::*;
 pub use reverse_string::*;
 pub use score_of_string::*;
+pub use subarrays_div_by_k::*;
