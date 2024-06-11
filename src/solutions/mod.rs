@@ -8,6 +8,7 @@ pub mod reverse_string;
 pub mod score_of_string;
 pub mod subarrays_div_by_k;
 pub mod height_checker;
+pub mod relative_sort_array;
 
 pub use append_characters::*;
 pub use check_subarray_sum::*;
@@ -19,3 +20,4 @@ pub use reverse_string::*;
 pub use score_of_string::*;
 pub use subarrays_div_by_k::*;
 pub use height_checker::*;
+pub use relative_sort_array::*;
