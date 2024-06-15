@@ -1,6 +1,7 @@
 pub mod append_characters;
 pub mod check_subarray_sum;
 pub mod common_chars;
+pub mod find_maximized_capital;
 pub mod height_checker;
 pub mod is_n_straight_hand;
 pub mod longest_palindrome;
@@ -16,6 +17,7 @@ pub mod subarrays_div_by_k;
 pub use append_characters::*;
 pub use check_subarray_sum::*;
 pub use common_chars::*;
+pub use find_maximized_capital::*;
 pub use height_checker::*;
 pub use is_n_straight_hand::*;
 pub use longest_palindrome::*;
